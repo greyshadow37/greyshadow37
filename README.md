@@ -5,7 +5,7 @@
 - 📫 How to reach me
 - usdas3701@gmail.com 
 - 😄 Pronouns: He
-- ⚡ Fun fact: None
+- ⚡ Fun fact: I'm very flexible and curious. 
 
 <!---
 greyshadow37/greyshadow37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
