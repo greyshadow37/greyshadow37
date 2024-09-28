@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Udayaditya Sankar Das
-- 👀 I’m interested in Machine Learning 
+- 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning and Image Processing
+- 💞️ I’m looking to collaborate on Machine Learning and Algorithms
 - 📫 How to reach me
 - usdas3701@gmail.com 
 - 😄 Pronouns: He
